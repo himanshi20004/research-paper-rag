@@ -1,0 +1,10 @@
+langchain
+langchain-google-genai
+langchain-community
+langgraph
+langsmith
+chromadb
+tavily-python
+pypdf
+streamlit
+python-dotenv
