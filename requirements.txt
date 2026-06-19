@@ -1,10 +1,13 @@
 langchain
 langchain-google-genai
 langchain-community
+langchain-groq
+langchain-text-splitters
 langgraph
 langsmith
-chromadb
+faiss-cpu
 tavily-python
 pypdf
 streamlit
 python-dotenv
+google-generativeai
