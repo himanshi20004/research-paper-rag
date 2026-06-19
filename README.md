@@ -3,6 +3,7 @@
 A production-ready AI agent that lets you upload any research paper (PDF) and ask questions about it in natural language. Built with **Corrective RAG (CRAG)**, **LangGraph**, **Gemini embeddings**, and **Groq LLaMA** — with real-time answer quality scoring via **LangSmith**.
   
 📁 **GitHub:** [github.com/himanshi20004/research-paper-rag](https://github.com/himanshi20004/research-paper-rag)
+![Preview](./assets/preview.png)
 
 ---
 
